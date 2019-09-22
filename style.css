@@ -1,0 +1,315 @@
+body{
+    margin: 0;
+    padding: 0;
+/*    background-color: aliceblue;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-weight: 300;
+}
+
+nav{
+    width: 100%;
+    height: 75px;
+    background-color: #1a2849;
+}
+
+.siteLogo{
+    padding: 20px 20px;
+    float: left;
+}
+
+.siteLogo a{
+    line-height: 25px;
+    color: #52de97;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.navbar{
+    padding: 20px 20px;
+    float: right;
+}
+
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li{
+    display: inline;
+}
+
+.navbar a{
+    color: #c0ffb3;
+    line-height: 25px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0px 10px; 
+}
+
+header{
+    padding: 200px 200px;
+    text-align: center;
+    background-color: #eeeeee;
+}
+
+.Mainheading{
+    background-color: #394a6d;
+    color: aliceblue;
+    font-weight: 800;
+}
+
+.HeadingSubtitle{
+    background-color: #e5e5e5;
+    color: #202040;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+#About{
+      padding: 200px 200px;
+    background-color: #e7f3ee;
+}
+
+h2{
+    font-size: 42px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.me{
+    background-color: #52de97;
+    color: aliceblue;
+    font-weight: 300;
+}
+
+.Subtitle{
+    text-align: center;
+    font-weight: 300;
+}
+
+.AboutImg{
+    margin: 50px 50px;
+    float: left;
+}
+
+.AboutContent{
+     min-width: 50%;
+     margin: 50px 50px;
+     padding: 10px 0px;
+     font-weight: 300;
+      
+}
+
+h3{
+  font-weight: 400;
+}
+
+#Service{
+     padding: 100px 200px;
+}
+
+.Column{
+    display: inline-block;
+    width: 35%;
+    margin: 10px 50px;
+    padding: 10px 20px;
+    background-color: #c0ffb3;
+    border-bottom: 5px dotted #bbeaa6;
+}
+
+.Column a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 10px;
+    background-color: #01d28e;
+    color: aliceblue;
+    line-height: 50px;
+    font-weight: 300;
+}
+
+.Column p{
+     font-weight: 300;
+}
+
+h4{
+    background-color: #52de97;
+    padding: 10px 20px;
+    color: aliceblue;
+    font-style:normal;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+
+#testimonial{
+     padding: 100px 200px;
+     background-color: #f7e8f6;
+}
+
+
+.testiColumn{
+    margin: 10px auto;
+    width: 25%;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+strong{
+    color: #1a2849;
+    margin: 10px 10px;
+}
+
+.Work{
+    font-weight: 300;
+}
+
+footer{
+     padding: 100px 200px;
+     background-color: #01d28e;
+}
+
+.contactForm{
+    width: 50%;
+    margin: 0 auto;
+/*    background-color: aliceblue;*/
+}
+
+label{
+    line-height: 50px;
+    color: #f9f9f9;
+    font-weight: 300;
+}
+
+.fname,
+.mobile,
+.message{
+    width: 75%;
+    padding: 5px 5px;
+    border: 1px solid #202040;
+    background-color: #52de97;
+}
+
+.button{
+    width: 80%;
+    padding: 5px 2px;
+    margin: 20px 0px;
+    font-size: 24px;
+    font-weight: 600;
+    font-variant: small-caps;
+    color: aliceblue;
+    cursor: pointer;
+    background-color: #52de97;
+    border: none;
+}
+
+#copyright{
+    padding: 20px 20px;
+    background-color: #1a2849;
+}
+
+#copyright p{
+    color: aliceblue;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+#copyright a{
+    color: #1089ff;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
