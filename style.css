@@ -6,7 +6,7 @@ body{
 }
 
 p{
-    font-weight: 300;
+    font-weight: 325;
 }
 
 nav{
@@ -21,7 +21,7 @@ nav{
 }
 
 .siteLogo a{
-    line-height: 25px;
+    line-height: 22px;
     color: #52de97;
     text-decoration: none;
     font-weight: 600;
